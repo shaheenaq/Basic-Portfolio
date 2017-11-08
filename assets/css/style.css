@@ -1,0 +1,52 @@
+body {
+	
+	background-color: #efeee7;
+	border-color: #dddddd;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: #333333;
+	margin: 0;
+	padding: 0;
+}
+
+
+header {
+	
+	text-align: left;
+	background-color: #ffffff;
+	border-color: #cccccc;
+}
+h2 {
+	text-align: center;
+}
+
+.container {
+	width: 1024px;
+	margin: 0 auto;
+}
+
+#main-bio,
+#bio-image,
+#contact-info {
+	float:left;
+}
+
+#main-bio {
+	width: 650px;
+	background-color: #ffffff;
+}
+#bio-image {
+	
+	height: 400px;
+	width: 300px;
+	margin-right: 20px;
+}
+
+#contact-info {
+	width: 270px;
+	background-color: #ffffff;
+	margin-left: 20px;
+
+}
+
+
+
